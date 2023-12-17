@@ -14,13 +14,13 @@ REF1: Maven Tutorial GitHub Repository
 https://github.com/marcobehlerjetbrains/maven-tutorial.git
 
 REF2: Put Maven On PATH
-Windows: setx PATH=%PATH%;C:\your\path\here\ (needs an elevated prompt)
-Linux + MacOS:
-Edit: ~/.bash_profile
-Add Line: “export PATH=”/your/dir:$PATH"”
-Run: source ~/.bash_profile
+- Windows: `setx PATH=%PATH%;C:\your\path\here\ (needs an elevated prompt)`
+- Linux + MacOS:
+  - Edit: `~/.bash_profile`
+  - Add Line: `export PATH=”/your/dir:$PATH"`
+  - Run: `source ~/.bash_profile`
 
-REF3: Pom.xml File - Overview
+REF3: `Pom.xml` File - Overview
 Maven – Introduction to the POM (apache.org)
 
 REF4: Scopes
